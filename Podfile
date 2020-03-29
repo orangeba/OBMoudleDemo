@@ -6,5 +6,6 @@ target 'OBMoudleDemo' do
   use_frameworks!
 
   # Pods for OBMoudleDemo
+  pod 'OBZuJianA'
 
 end
